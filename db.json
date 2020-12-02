@@ -1,0 +1,11 @@
+{
+    "products": [
+        { "id": 1, "title": "Dispositivo Monitor Alpha", "description": "Última geração de eletrônicos destinados a monitoramento", "price": "9975,00", "img_url": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/57/76998/1.jpg" },
+        { "id": 2, "title": "Dispositivo de Áudio X861", "description": "Desfrute de magníficas ondas mecânicas sonoras emitidas por este dispositivo", "price": "8193,77", "img_url": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/57/76998/1.jpg" },
+        { "id": 3, "title": "Dispositivo Multiuso Personalizável 19S71", "description": "Deixe sua criatividade guiá-lo e configure de acordo com suas próprias necessidades", "price": "11028,12", "img_url": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/57/76998/1.jpg" },
+        { "id": 4, "title": "Case Genérico Para Dispositivo", "description": "Quer seja uma preocupação estética ou de camuflagem, este produto te atenderá completamente", "price": "150,00", "img_url": "https://cdn10.bigcommerce.com/s-ti9mc9l/products/134/images/552/SCBA_Case1__99426.1568140492.400.400.jpg"},
+        { "id": 5, "title": "Dispositivo de emissão IR", "description": "Precisa enviar ondas eletromagnéticas em um espectro não visível aos olhos humanos? Que tal o infra-vermelho?", "price": "9922,99", "img_url": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/57/76998/1.jpg"},
+        { "id": 6, "title": "Dispositivo de emissão de ondas de amplo espectro 1IRMW", "description": "Com este dispositivo, você pode emitir frequências entre 10^14Hz e 10^10Hz", "price": "15000,99", "img_url": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/57/76998/1.jpg"},
+        { "id": 7, "title": "Dispositivo receptor IR I44", "description": "Receba sinais infra-vermelho com altas taxas de aproveitamento", "price": "570,00", "img_url": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/57/76998/1.jpg" }
+    ]
+}
